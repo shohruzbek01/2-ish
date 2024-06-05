@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    background-color: #F9E0 AE;
+    height: 110px;
+    &-row{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+    }
+    &-main{
+        display: flex;
+        gap: 25px;
+    }
+}

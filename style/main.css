@@ -1,0 +1,14 @@
+.header {
+  width: 100%;
+  background-color: #F9E0AE;
+  height: 100px;
+}
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-main {
+  display: flex;
+  gap: 25px;
+}/*# sourceMappingURL=main.css.map */
